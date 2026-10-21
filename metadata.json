@@ -1,0 +1,6 @@
+{
+  "name": "교직원 싸이월드 아이디어 미니홈피",
+  "description": "2000년대 싸이월드 미니홈피 감성의 교직원 AI & 바이브코딩 아이디어 제안 및 관리자 대시보드 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
